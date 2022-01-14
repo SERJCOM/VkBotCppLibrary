@@ -164,7 +164,7 @@ int main()
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
 
-	std::string access_key = "10a3851d320f0e3cf3fc7b988363fab485a91b975d3673012291adcc9773d8a2d50385febbb9217609ef8";
+	std::string access_key = ;
 	std::string id_my_group = "200638400";
 	Bot bot(access_key, id_my_group);
 	
